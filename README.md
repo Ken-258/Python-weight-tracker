@@ -4,9 +4,9 @@ This is a python application built with streamlit that helps track daily calorie
 
 
 ##Features
--**Smart data entry:** Quick inputs for meal prep vs. cheat meals.
--**Match modeling:** Uses BMR & TDEE to calculate daily caloric deficits.
--**Visual Feedback:** Compares " predicted Weight" vs "Actual Scale Weight" on a graph.
+- **Smart data entry:** Quick inputs for meal prep vs. cheat meals.
+- **Match modeling:** Uses BMR & TDEE to calculate daily caloric deficits.
+- **Visual Feedback:** Compares " predicted Weight" vs "Actual Scale Weight" on a graph.
 
 ##How to run 
 1. Instal requirements: 'pip install -r requirements.txt'
