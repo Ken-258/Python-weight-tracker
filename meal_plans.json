@@ -1,0 +1,52 @@
+{
+    "profiles": {
+        "mon_wed_fri": {
+            "description": "Toast, Rice & Chicken Routine",
+            "total_calories": 1100,
+            "meals": {
+                "breakfast": 320,
+                "lunch": 500,
+                "dinner": 220,
+                "snack": 60
+            }
+        },
+        "tue_thu_sat": {
+            "description": "Sweet Potato, Mash & Yogurt Routine",
+            "total_calories": 950,
+            "meals": {
+                "breakfast": 180,
+                "lunch": 400,
+                "dinner": 290,
+                "snack": 80
+            }
+        },
+        "sunday": {
+            "description": "Sunday Reset (Leftovers & Light)",
+            "total_calories": 910,
+            "meals": {
+                "breakfast": 180,
+                "lunch": 400,
+                "dinner": 270,
+                "snack": 60
+            }
+        }
+    },
+    "cheat_tiers": {
+        "small": {
+            "calories": 250,
+            "examples": "Cookie, Beer, Chips, Extra Bread"
+        },
+        "medium": {
+            "calories": 800,
+            "examples": "Burger, Pasta Dish, 3 Slices Pizza"
+        },
+        "large": {
+            "calories": 1500,
+            "examples": "Full Cheat Meal, Buffet, Alcohol Night"
+        }
+    },
+    "user_stats": {
+        "bmr": 1600,
+        "daily_activity_multiplier": 1.2
+    }
+}
